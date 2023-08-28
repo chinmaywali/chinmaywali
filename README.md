@@ -32,6 +32,16 @@
   <a href="https://instagram.com/chinmay_wali2.0" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+<p align="center">
+  <a href="https://github.com/chinmaywali?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/chinmaywali?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/chinmaywali?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/chinmaywali?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaywali&theme=react-dark&hide_border=true" />
+
+</p>
 </div>
 
  <hr/>
