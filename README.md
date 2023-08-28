@@ -39,8 +39,6 @@
   <a href="https://github.com/chinmaywali?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/chinmaywali?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaywali&theme=react-dark&hide_border=true" />
-
 </p>
 </div>
 
