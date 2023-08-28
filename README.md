@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chinmaywali.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chinmaywali.visitor-badge&left_color=red&right_color=green&left_text=Profile%20Visitors)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There..!!!+👋;+I'm+ChinmayWali..!;" />
