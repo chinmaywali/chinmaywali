@@ -16,7 +16,7 @@
 
  💬 Ask me about anything **[here..!!](https://www.linkedin.com/in/chinmay-wali-625b41242/)**
  
- 👯 I’m looking to collaborate on **Application Development and Web Development**
+ 👯 I’m looking to collaborate on **Application Development**
 
  ⚡ Fun fact **Watch Anime , You will love it**
  
