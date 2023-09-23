@@ -48,7 +48,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mongodb,sqlite,c,aws,linux,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,photoshop,html,css" />
+    <img src="https://skillicons.dev/icons?i=mysql,photoshop,html,css,java" />
 </div>
 
 <br/>
