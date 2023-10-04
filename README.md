@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a personalized app development using python-Kivy**
  
- 🌱 I’m currently learning **Web Development,Java script etc..**
+ 🌱 I’m currently learning **Dart , Flutter etc..**
 
  💬 Ask me about anything **[here..!!](https://www.linkedin.com/in/chinmay-wali-625b41242/)**
  
