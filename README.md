@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Dart , Flutter etc..**
 
- 💬 Ask me about anything **[here..!!](https://www.linkedin.com/in/chinmay-wali-625b41242/)**
+ 💬 Ask me about anything **[here..!!](https://www.instagram.com/chinmay_wali2.0/)**
  
  👯 I’m looking to collaborate on **Application Development**
 
