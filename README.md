@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personalized app development using python-Kivy**
+ 🔭 I’m currently working on **a personalized app development using flutter**
  
- 🌱 I’m currently learning **Dart , Flutter etc..**
+ 🌱 I’m currently learning **Backend i.e firebase..**
 
  💬 Ask me about anything **[here..!!](https://www.instagram.com/chinmay_wali2.0/)**
  
