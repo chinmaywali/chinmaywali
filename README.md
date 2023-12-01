@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a personalized app development using flutter**
  
- 🌱 I’m currently learning **Backend i.e firebase..**
+ 🌱 I’m currently learning **Web development.**
 
  💬 Ask me about anything **[here..!!](https://www.instagram.com/chinmay_wali2.0/)**
  
@@ -47,7 +47,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,sqlite,cpp,aws,linux,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,mongodb,sqlite,cpp,aws,linux,azure" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,photoshop,html,css,java" />
 </div>
 
