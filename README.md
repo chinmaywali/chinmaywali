@@ -16,7 +16,7 @@
 
  💬 Ask me about anything **[here..!!](https://www.instagram.com/chinmay_wali2.0/)**
  
- 👯 I’m looking to collaborate on **Application Development**
+ 👯 I’m looking to collaborate on **Application Development**,**QA**,**Software Development**
 
  ⚡ Fun fact **Watch Anime , You will love it**
  
