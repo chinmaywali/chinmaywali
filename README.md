@@ -1,28 +1,39 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chinmaywali.visitor-badge&left_color=red&right_color=green&left_text=Profile%20Visitors)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There..!!!+👋;+I'm+ChinmayWali..!;" />
-</h1>
 
-<h3 align="center">A passionate  developer from India IN</h3>
 
+<H2>Hello! 👋👋</H2>
+
+I'm Chinmay Wali. As a final-year student at KLS GIT, Belagavi, pursuing my BE in Information Science Engineering, I'm driven by a fervent passion for programming coupled with a robust analytical mindset, with a solution-oriented approach. I'm skilled at mobile application development , Python , Automation and Mannual testing , Java. I've worked on various projects and have built applications with modern technologies. I consistently strive to deliver high-quality results, leveraging my adept problem-solving skills and keen attention to detail. I'm eager to contribute significantly to the vibrant and rapidly evolving domain of software engineering, with a goal of making a positive impact in the ever-changing landscape of the tech industry.
+<br/>
+<H3> 🌟Tools & Technologies:</H3>
+
+- Flutter,Dart
+- Python
+- Firebase
+- Mysql
+- Selenium
+- Jira,Postman
+- Java
+- Salesforce
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,mysql,firebase,selenium,postman,c,java,html,salesforce" />
+</div>
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a personalized app development using flutter**
- 
- 🌱 I’m currently learning **Web development.**
+<H3>⚙️Some of my projects:</H3>
 
- 💬 Ask me about anything **[here..!!](https://www.instagram.com/chinmay_wali2.0/)**
- 
- 👯 I’m looking to collaborate on **Application Development**,**QA**,**Software Development**
+- TaskPro - Andriod App that manages all your tasks realtime. [Link](https://github.com/chinmaywali/TaskPro) 
+- Galaxy - Desktop Game [Link](https://github.com/chinmaywali/Galaxy_App)
+- Weatherly - Android app for realtime weather forcast [Link](https://github.com/chinmaywali/Weather-App)
+- Opencart - Opensource Automation Project [Link](https://github.com/chinmaywali/OpenCart-MannualTesting)
+- Moneycontrol - Opensource Automation Project [Link](https://github.com/chinmaywali/moneycontrol.com_Automation)
+- FootFlex - Shoping App UI [Link](https://www.instagram.com/chinmay_wali2.0/)
 
- ⚡ Fun fact **Watch Anime , You will love it**
- 
- </div>
- 
-<div align="center"> 
+<H3>Contact Me 💬</H3>
+
+<div> 
   <a href="mailto:chinmaywali019@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -32,43 +43,11 @@
   <a href="https://instagram.com/chinmay_wali2.0" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-
-<p align="center">
-  <a href="https://github.com/chinmaywali?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/chinmaywali?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/chinmaywali?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/chinmaywali?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-</p>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,mongodb,sqlite,cpp,aws,linux,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,photoshop,html,css,java" />
-</div>
-
-<br/>
-
- <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=chinmaywali&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
-<br/>
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chinmaywali&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Thanks+for+visiting!+😊✌️;+Shoot+me+a+message+on+Linkedin+or+Instagram..!!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Thanks+for+visiting!+😊✌️;+Shoot+me+a+message+on+Gmail+or+Linkedin..!!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
