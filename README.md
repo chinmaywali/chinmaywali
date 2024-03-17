@@ -22,7 +22,7 @@ I'm Chinmay Wali. As a final-year student at KLS GIT, Belagavi, pursuing my BE i
 </div>
 <br/>
 
-<H3>⚙️Some of my projects:</H3>
+<H3> ⚙️Some of my projects:</H3>
 
 - TaskPro - Andriod App that manages all your tasks realtime. [Link](https://github.com/chinmaywali/TaskPro) 
 - Galaxy - Desktop Game [Link](https://github.com/chinmaywali/Galaxy_App)
