@@ -2,7 +2,7 @@
 
 
 
-<H2>Hello! 👋👋</H2>
+<H2>Hello! 👋👋</H2>   
 
 I'm Chinmay Wali👋. As a final-year student at KLS GIT, Belagavi, pursuing my BE in Information Science Engineering, I'm driven by a fervent passion for programming coupled with a robust analytical mindset, with a solution-oriented approach. I'm skilled at mobile application development , Python , Automation and Mannual testing , Java 🧑‍💻. I've worked on various projects and have built applications with modern technologies.
 
