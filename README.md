@@ -19,7 +19,7 @@ I consistently strive to deliver high-quality results, leveraging my adept probl
 - Salesforce
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,mysql,firebase,selenium,postman,c,html,salesforce" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,mysql,firebase,selenium,postman,c,html,salesforce" />
 </div>
 <br/>
 
