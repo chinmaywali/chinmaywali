@@ -4,7 +4,7 @@
 
 <H2>Hello! 👋👋</H2>   
 
-I'm Chinmay Wali👋. As a final-year student at KLS GIT, Belagavi, pursuing my BE in Information Science Engineering, I'm driven by a fervent passion for programming coupled with a robust analytical mindset, with a solution-oriented approach. I'm skilled at mobile application development , Python , Automation and Mannual testing. I've worked on various projects and have built applications with modern technologies.
+I'm Chinmay Wali👋. As a final-year student at KLS GIT, Belagavi, pursuing my BE in Information Science Engineering, I'm driven by a fervent passion for programming coupled with a robust analytical mindset, with a solution-oriented approach. I'm skilled at mobile application development , Python ,Java , Automation and Mannual testing. I've worked on various projects and have built applications with modern technologies.
 
 I consistently strive to deliver high-quality results, leveraging my adept problem-solving skills and keen attention to detail. I'm eager to contribute significantly to the vibrant and rapidly evolving domain of software engineering, with a goal of making a positive impact in the ever-changing landscape of the tech industry.
 <br/>
@@ -12,14 +12,14 @@ I consistently strive to deliver high-quality results, leveraging my adept probl
 
 - Flutter,Dart
 - Python
+- Java
 - Firebase
 - Sql
 - Selenium
 - Jira,Postman
-- Salesforce
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,mysql,firebase,selenium,postman,c,html,salesforce" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,mysql,firebase,selenium,postman,c,html,salesforce,spring boot" />
 </div>
 <br/>
 
