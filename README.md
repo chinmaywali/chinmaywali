@@ -19,7 +19,7 @@ I consistently strive to deliver high-quality results, leveraging my adept probl
 - Jira,Postman
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,mysql,firebase,selenium,postman,c,html,salesforce,spring boot" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,,spring boot,mysql,firebase,selenium,postman,c,html" />
 </div>
 <br/>
 
