@@ -6,6 +6,8 @@
 
 ### About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="420" height="400"/>
+
 ```js
 const Chinmay = {
     pronouns: "he" | "him",
@@ -27,6 +29,7 @@ if (success === false) {
     celebrate();
 }
 ```
+
 ---
 
 ### 🚀 What I Do  
