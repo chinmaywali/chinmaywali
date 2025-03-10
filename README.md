@@ -6,7 +6,7 @@
 
 ### About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="300" height="360"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="250" height="360"/>
 
 ```js
 const Chinmay = {
